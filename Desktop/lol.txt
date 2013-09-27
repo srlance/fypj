@@ -1,0 +1,6 @@
+http://localhost:8080/Softslate
+http://localhost:8080/Softslate/administrator
+
+Congratulations, you have successfully installed SoftSlate Commerce!
+
+(In the unlikely event you have to run the installer again, you must first empty the database and then edit the WEB-INF/classes/appSettings.properities file located under the SoftSlate Commerce installation directory. Look for the line beginning "lockInstaller", and delete that line.)
